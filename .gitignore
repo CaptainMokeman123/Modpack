@@ -40,3 +40,5 @@ icon.png
 usernamecache.json
 
 /FailesClasses/*
+/local/*
+/local/crash_assistant/*
