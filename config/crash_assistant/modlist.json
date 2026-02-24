@@ -223,6 +223,13 @@
     "curseForgeHash": 199783291,
     "modrinthHash": "522ee4e405fc2f934f6ccfb8f689dc539f2df47d"
   },
+  "InventoryTweaks-1.59-dev-152.jar": {
+    "jarName": "InventoryTweaks-1.59-dev-152.jar",
+    "modId": "inventorytweaks",
+    "version": "1.59-dev-152-cf6e263",
+    "curseForgeHash": 2514137931,
+    "modrinthHash": "3643e09b93e66c5690de7b9c3daa62da7789e7f5"
+  },
   "IvToolkit-1.2.1.jar": {
     "jarName": "IvToolkit-1.2.1.jar",
     "modId": "IvToolkit",
@@ -236,6 +243,11 @@
     "version": "1.7.10-1.0.3",
     "curseForgeHash": 851703378,
     "modrinthHash": "9944704f68aef92f32d64a667ab11f96ceca6dfa"
+  },
+  "LumySkinPatch-1.0.13.jar": {
+    "jarName": "LumySkinPatch-1.0.13.jar",
+    "curseForgeHash": 2916498341,
+    "modrinthHash": "10f46012c4fb779f68cfb59bab88bf51cdfb2314"
   },
   "Mantle-1.7.10-0.3.2b.jar": {
     "jarName": "Mantle-1.7.10-0.3.2b.jar",
