@@ -1,0 +1,17 @@
+filename = 'BattleTowers-1.7.10.jar'
+name = "AtomicStryker's Battle Towers"
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'BattleTowers-1.7.10.jar'
+
+[download]
+hash = '63d5d18fb8c2f0a0794184c126c162c4d498a4e4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2231443
+project-id = 227877

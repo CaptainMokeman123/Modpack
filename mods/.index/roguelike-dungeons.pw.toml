@@ -1,0 +1,17 @@
+filename = 'roguelike-1.7.10-1.5.0b.jar'
+name = 'Roguelike Dungeons'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'roguelike-1.7.10-1.5.0b.jar'
+
+[download]
+hash = 'ad43bc7492081f8c2cc9003754defa47aa798971'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2294894
+project-id = 221585

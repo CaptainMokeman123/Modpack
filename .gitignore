@@ -1,0 +1,42 @@
+# Mods and libraries
+/libraries/*
+
+# Player data
+/saves/*
+/playerdata/*
+/stats/*
+/advancements/*
+/shaderpacks/*
+/server-resource-packs/*
+/asm/*
+/texturepacks/*
+/resourcepacks/*
+usernamecache.json
+
+#Game data
+options.txt
+optionsof.txt
+
+# Logs
+/logs/*
+minetweaker.log
+
+# Crash reports
+/crash-reports/*
+
+# Temporary files
+/tmp/*
+*.tmp
+
+# Config backup files (optional)
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+#prism stuff
+icon.png
+usernamecache.json
+
+/FailesClasses/*

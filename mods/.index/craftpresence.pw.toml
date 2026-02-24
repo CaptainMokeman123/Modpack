@@ -1,0 +1,17 @@
+filename = 'CraftPresence-2.7.0+1.7.10-forge.jar'
+name = 'CraftPresence'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge 1.7.10] CraftPresence v2.7.0'
+
+[download]
+hash = '3e471289a678e8b6338da3592793c6679c53a359'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7146267
+project-id = 297038

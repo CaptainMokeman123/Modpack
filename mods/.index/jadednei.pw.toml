@@ -1,0 +1,17 @@
+filename = 'JadedNEI-1.7.10-1.0.3.jar'
+name = 'Jaded NEI'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'JadedNEI-1.7.10-1.0.3.jar'
+
+[download]
+hash = '9944704f68aef92f32d64a667ab11f96ceca6dfa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2846192
+project-id = 317543

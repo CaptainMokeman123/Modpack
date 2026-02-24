@@ -1,0 +1,17 @@
+filename = 'IvToolkit-1.2.1.jar'
+name = 'IvToolkit'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'IvToolkit-1.2.1.jar'
+
+[download]
+hash = 'dbfd202496e3f89b8d1fbb42c69263e92e92c13b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2294442
+project-id = 224535

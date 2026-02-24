@@ -1,0 +1,17 @@
+filename = 'EnderStorage-1.7.10-1.4.7.37-universal.jar'
+name = 'Ender Storage'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'EnderStorage-1.7.10-1.4.7.37-universal.jar'
+
+[download]
+hash = '709835e80edf45ba1e7e36fca090b176d7810630'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2262092
+project-id = 229306

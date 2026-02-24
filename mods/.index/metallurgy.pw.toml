@@ -1,0 +1,17 @@
+filename = 'Metallurgy-1.7.10-4.0.9.148.jar'
+name = 'Metallurgy'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Metallurgy-1.7.10-4.0.9.148.jar'
+
+[download]
+hash = 'bad16431023ca8787c40ecd15a13ab38a9081a8c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2322815
+project-id = 59641

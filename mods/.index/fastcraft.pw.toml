@@ -1,0 +1,17 @@
+filename = 'fastcraft-1.25.jar'
+name = 'FastCraft'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fastcraft-1.25.jar'
+
+[download]
+hash = '196ebe3d9bb2085e000f0cc6be177d30d0b7190d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2522249
+project-id = 242677

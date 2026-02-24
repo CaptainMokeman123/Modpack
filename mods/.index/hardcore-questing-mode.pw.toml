@@ -1,0 +1,17 @@
+filename = 'HQM-The Journey-4.4.4.jar'
+name = 'Hardcore Questing Mode [FORGE/FABRIC]'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'HQM The Journey (4.4.4)'
+
+[download]
+hash = 'fb19d7d55a9411051acde00e1ff3daeb9fadd3c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2270435
+project-id = 77027

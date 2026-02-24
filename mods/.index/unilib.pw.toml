@@ -1,0 +1,17 @@
+filename = 'UniLib-1.2.0+1.7.10-forge.jar'
+name = 'UniLib'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge 1.7.10] UniLib v1.2.0'
+
+[download]
+hash = '9fb1c2169ac3c49421a30357675ea57a7fd7cdfb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7145513
+project-id = 1056812

@@ -1,0 +1,17 @@
+filename = 'UndergroundBiomesConstructs-1.7.10-0.8-beta49.jar'
+name = 'UndergroundBiomesConstructs'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10', '1.7.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'UndergroundBiomesConstructs-1.7.10-0.8-beta49.jar'
+
+[download]
+hash = 'fe1202957567c93387c9b4660b4a46c998e31db4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2304497
+project-id = 72744

@@ -1,0 +1,17 @@
+filename = 'Fluxed-Core-MC1710-1.0.9.jar'
+name = 'Fluxed-Core'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Fluxed-Core-1.7.10-1.0.9'
+
+[download]
+hash = '54e4d5b5bd54d2e102397ac0e527deb5926dcdd9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2288074
+project-id = 237039

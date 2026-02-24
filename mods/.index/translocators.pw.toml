@@ -1,0 +1,17 @@
+filename = 'Translocator-1.7.10-1.1.2.16-universal.jar'
+name = 'Translocators'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Translocator-1.7.10-1.1.2.16-universal.jar'
+
+[download]
+hash = 'df54034de05c70cc8d3b819395bae401cb82d9a6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2300180
+project-id = 229318

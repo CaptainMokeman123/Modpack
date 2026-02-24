@@ -1,0 +1,17 @@
+filename = 'MetallurgyCore-1.7.10-4.0.5.30.jar'
+name = 'Metallurgy Core'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'MetallurgyCore-1.7.10-4.0.5.30.jar'
+
+[download]
+hash = 'b0b3054989712b16d35c611ba030ef3fb597e1ea'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2322813
+project-id = 78640

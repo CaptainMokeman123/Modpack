@@ -1,0 +1,17 @@
+filename = 'ModTweaker2-0.9.6.jar'
+name = 'ModTweaker'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ModTweaker2 - 0.9.6'
+
+[download]
+hash = '4b44a9267050b3a97bc1d9e8f3d060ff217dfd4b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2313730
+project-id = 220954

@@ -1,0 +1,17 @@
+filename = 'plantmegapack-4.15-1.7.10-1230 (1).jar'
+name = 'Plant Mega Pack (REUPLOAD)'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'PMP 1.7.10'
+
+[download]
+hash = '09266761d75318ff9d26afeb1a014636313636c6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6630711
+project-id = 1192269

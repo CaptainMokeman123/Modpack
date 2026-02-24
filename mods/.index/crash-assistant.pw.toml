@@ -1,0 +1,17 @@
+filename = '!!!CrashAssistant-forge-1.7.10-1.10.28.jar'
+name = 'Crash Assistant'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '!!!CrashAssistant-forge-1.7.10-1.10.28.jar'
+
+[download]
+hash = '9c9f4cf4c67a524ec029abf4eefc6ea15743525f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7374714
+project-id = 1154099

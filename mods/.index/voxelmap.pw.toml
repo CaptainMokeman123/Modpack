@@ -1,0 +1,17 @@
+filename = 'mod_voxelMap_1.7.0b_for_1.7.10.litemod'
+name = 'VoxelMap'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '(Liteloader) VoxelMap for 1.7.10'
+
+[download]
+hash = '3bc13f91a4422cf39eadc882a6ccb36f3e56b13b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2462146
+project-id = 225179

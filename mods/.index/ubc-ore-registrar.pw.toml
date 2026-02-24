@@ -1,0 +1,17 @@
+filename = 'UBCOres-1.7.10-0.2.9.4.jar'
+name = 'UBC Ore Registrar'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'UBC Ore Registrar 1.7.10 - 0.2.9.4'
+
+[download]
+hash = 'f3f6d910f0c1d56d8e6a521e2d71748f99b0edd2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2303984
+project-id = 227992
