@@ -45,6 +45,13 @@
     "curseForgeHash": 986622931,
     "modrinthHash": "5f95cfaac2c48448be48150105e735323b6697a1"
   },
+  "BetterLoadingScreen-1.3.10.jar": {
+    "jarName": "BetterLoadingScreen-1.3.10.jar",
+    "modId": "betterloadingscreen",
+    "version": "1.3.10",
+    "curseForgeHash": 3522832104,
+    "modrinthHash": "c9d673415deca85afb42e7e698d932691f27d8a8"
+  },
   "BetterSprinting-1.7.10-v2.3.0.jar": {
     "jarName": "BetterSprinting-1.7.10-v2.3.0.jar",
     "modId": "bettersprinting",
