@@ -230,6 +230,13 @@
     "curseForgeHash": 199783291,
     "modrinthHash": "522ee4e405fc2f934f6ccfb8f689dc539f2df47d"
   },
+  "industrialcraft-2-2.2.828-experimental.jar": {
+    "jarName": "industrialcraft-2-2.2.828-experimental.jar",
+    "modId": "IC2",
+    "version": "2.2.828-experimental",
+    "curseForgeHash": 2948113514,
+    "modrinthHash": "64f71495feddba295ed4392797d48d7dcfcfc779"
+  },
   "InventoryTweaks-1.59-dev-152.jar": {
     "jarName": "InventoryTweaks-1.59-dev-152.jar",
     "modId": "inventorytweaks",
@@ -250,6 +257,13 @@
     "version": "1.7.10-1.0.3",
     "curseForgeHash": 851703378,
     "modrinthHash": "9944704f68aef92f32d64a667ab11f96ceca6dfa"
+  },
+  "Loading-Progress-Bar-v1.0-mc1.7.10.jar": {
+    "jarName": "Loading-Progress-Bar-v1.0-mc1.7.10.jar",
+    "modId": "lpb",
+    "version": "1.0",
+    "curseForgeHash": 2123025200,
+    "modrinthHash": "f0a8904172c1859d48c4bf714ccbf718847aa5df"
   },
   "LumySkinPatch-1.0.13.jar": {
     "jarName": "LumySkinPatch-1.0.13.jar",
@@ -298,6 +312,13 @@
     "curseForgeHash": 1141757713,
     "modrinthHash": "95ca39e8ffb89e84192a7d9a2f649e2896a9b561"
   },
+  "neiaddons-1.12.15.41-mc1.7.10.jar": {
+    "jarName": "neiaddons-1.12.15.41-mc1.7.10.jar",
+    "modId": "NEIAddons",
+    "version": "1.12.15.41",
+    "curseForgeHash": 889570575,
+    "modrinthHash": "402ceb094400e7c81373db010f6282fe807d847a"
+  },
   "NotEnoughItems-1.7.10-1.0.5.120-universal.jar": {
     "jarName": "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
     "curseForgeHash": 1718343770,
@@ -328,6 +349,27 @@
     "version": "${version}",
     "curseForgeHash": 1677104485,
     "modrinthHash": "272b13fa1e7bf303e358068482726b7bdd4b9ee2"
+  },
+  "ProjectRed-1.7.10-4.7.0pre12.95-Base.jar": {
+    "jarName": "ProjectRed-1.7.10-4.7.0pre12.95-Base.jar",
+    "modId": "ProjRed|Core",
+    "version": "4.7.0pre12.95",
+    "curseForgeHash": 2356979327,
+    "modrinthHash": "a312b9b91fa41913051984e1436ed8e3b19c40ce"
+  },
+  "ProjectRed-1.7.10-4.7.0pre12.95-World.jar": {
+    "jarName": "ProjectRed-1.7.10-4.7.0pre12.95-World.jar",
+    "modId": "ProjRed|Exploration",
+    "version": "4.7.0pre12.95",
+    "curseForgeHash": 218653709,
+    "modrinthHash": "7573fbb8cfc3e6228724dbe1da5cf0e641f132cb"
+  },
+  "Railcraft_1.7.10-9.12.2.1.jar": {
+    "jarName": "Railcraft_1.7.10-9.12.2.1.jar",
+    "modId": "Railcraft",
+    "version": "9.12.2.1",
+    "curseForgeHash": 3589173766,
+    "modrinthHash": "1c7283767376aebcac41d97739f36765c8357d97"
   },
   "RecurrentComplex-0.9.7.1.1.jar": {
     "jarName": "RecurrentComplex-0.9.7.1.1.jar",
