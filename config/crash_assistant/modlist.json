@@ -32,6 +32,13 @@
     "curseForgeHash": 1276362480,
     "modrinthHash": "08175b6a601003ca9968d06ff50db59c13a010c3"
   },
+  "Aquaculture-1.7.10-1.2.6.21.jar": {
+    "jarName": "Aquaculture-1.7.10-1.2.6.21.jar",
+    "modId": "Aquaculture",
+    "version": "1.2.6.21",
+    "curseForgeHash": 4082586155,
+    "modrinthHash": "69fa54a0ca432b0aa4ad9889621abd9f1c568b8e"
+  },
   "BattleTowers-1.7.10.jar": {
     "jarName": "BattleTowers-1.7.10.jar",
     "modId": "AS_BattleTowers",
@@ -72,6 +79,13 @@
     "version": "2.1.0",
     "curseForgeHash": 1984642321,
     "modrinthHash": "b0d13f227f0fe0ec1be8b401d916831fc533048d"
+  },
+  "Botania r1.8-249.jar": {
+    "jarName": "Botania r1.8-249.jar",
+    "modId": "Botania",
+    "version": "r1.8-249",
+    "curseForgeHash": 2177973977,
+    "modrinthHash": "eee543e33c0f57c93d3d83815576cc96236f56f4"
   },
   "ChickenChunks-1.7.10-1.3.4.19-universal.jar": {
     "jarName": "ChickenChunks-1.7.10-1.3.4.19-universal.jar",
@@ -161,6 +175,13 @@
     "version": "1.7.10-0.2.0.40_beta",
     "curseForgeHash": 3461046863,
     "modrinthHash": "f8fd9953d5dacc7ec684221157e8a4066d1960af"
+  },
+  "EnderIO-1.7.10-2.3.0.430_beta.jar": {
+    "jarName": "EnderIO-1.7.10-2.3.0.430_beta.jar",
+    "modId": "EnderIO",
+    "version": "1.7.10-2.3.0.430_beta",
+    "curseForgeHash": 3700276087,
+    "modrinthHash": "4f7175ce464135143fdc21661e73176470450eff"
   },
   "EnderStorage-1.7.10-1.4.7.37-universal.jar": {
     "jarName": "EnderStorage-1.7.10-1.4.7.37-universal.jar",
@@ -258,6 +279,11 @@
     "curseForgeHash": 851703378,
     "modrinthHash": "9944704f68aef92f32d64a667ab11f96ceca6dfa"
   },
+  "liteloader-1.7.10.jar": {
+    "jarName": "liteloader-1.7.10.jar",
+    "curseForgeHash": 2041092893,
+    "modrinthHash": "0b75e409003b6b4954afed9ef673dbdc7da6b734"
+  },
   "Loading-Progress-Bar-v1.0-mc1.7.10.jar": {
     "jarName": "Loading-Progress-Bar-v1.0-mc1.7.10.jar",
     "modId": "lpb",
@@ -284,12 +310,26 @@
     "curseForgeHash": 1008761719,
     "modrinthHash": "bad16431023ca8787c40ecd15a13ab38a9081a8c"
   },
+  "MetallurgyClassicMachines-1.7.10-1.0.3.75.jar": {
+    "jarName": "MetallurgyClassicMachines-1.7.10-1.0.3.75.jar",
+    "modId": "metallurgycm",
+    "version": "1.0.3.75",
+    "curseForgeHash": 1911579854,
+    "modrinthHash": "5fe88faf1f40a67e9bb79f285fae21c0819d541e"
+  },
   "MetallurgyCore-1.7.10-4.0.5.30.jar": {
     "jarName": "MetallurgyCore-1.7.10-4.0.5.30.jar",
     "modId": "MetallurgyCore",
     "version": "4.0.5",
     "curseForgeHash": 766352999,
     "modrinthHash": "b0b3054989712b16d35c611ba030ef3fb597e1ea"
+  },
+  "MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar": {
+    "jarName": "MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar",
+    "modId": "MineFactoryReloaded",
+    "version": "2.8.2B1",
+    "curseForgeHash": 2889482046,
+    "modrinthHash": "15b3b178e7103c74b8b5522330eef9d632376f22"
   },
   "ModTweaker2-0.9.6.jar": {
     "jarName": "ModTweaker2-0.9.6.jar",
@@ -395,6 +435,27 @@
     "jarName": "serializationisbad-1.5.2.jar",
     "curseForgeHash": 2409461816,
     "modrinthHash": "da05f7344986d425c858decb36cf776b3fe53dad"
+  },
+  "Thaumcraft-1.7.10-4.2.3.5.jar": {
+    "jarName": "Thaumcraft-1.7.10-4.2.3.5.jar",
+    "modId": "Thaumcraft",
+    "version": "1.7.10-4.2.3.5",
+    "curseForgeHash": 3309651986,
+    "modrinthHash": "3f51b473f9ef7a94d1a9e01f6784af1cfd811649"
+  },
+  "ThermalDynamics-[1.7.10]1.2.1-172.jar": {
+    "jarName": "ThermalDynamics-[1.7.10]1.2.1-172.jar",
+    "modId": "ThermalDynamics",
+    "version": "1.2.1",
+    "curseForgeHash": 603746110,
+    "modrinthHash": "e22847e8b2286219c1c8833ba264916a6729762d"
+  },
+  "ThermalExpansion-[1.7.10]4.1.5-248.jar": {
+    "jarName": "ThermalExpansion-[1.7.10]4.1.5-248.jar",
+    "modId": "ThermalExpansion",
+    "version": "4.1.5",
+    "curseForgeHash": 4158757773,
+    "modrinthHash": "ae0d16da59401fee4ef4dcda42fa2b85efee96bc"
   },
   "ThermalFoundation-[1.7.10]1.2.6-118.jar": {
     "jarName": "ThermalFoundation-[1.7.10]1.2.6-118.jar",

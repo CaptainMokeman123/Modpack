@@ -1,0 +1,17 @@
+filename = 'MetallurgyClassicMachines-1.7.10-1.0.3.75.jar'
+name = 'Metallurgy Classic Machines'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MetallurgyClassicMachines-1.7.10-1.0.3.75.jar'
+
+[download]
+hash = '5fe88faf1f40a67e9bb79f285fae21c0819d541e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2267679
+project-id = 237472
